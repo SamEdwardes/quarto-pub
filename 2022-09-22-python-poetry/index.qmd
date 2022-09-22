@@ -1,5 +1,5 @@
 ---
-title: Using Poetry with Posit Products
+title: Using Poetry for Python Dependency Management
 author: "Sam Edwardes"
 format: html
 ---
@@ -30,7 +30,6 @@ export PATH="$HOME/.poetry/bin:$PATH"
 ```
 
 Restart your shell, and verify that poetry is working by checking the version:
-
 
 
 ```bash

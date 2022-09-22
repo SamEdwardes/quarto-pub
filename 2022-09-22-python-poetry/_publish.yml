@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 34d5918f-589e-458c-a485-587366d0b481
+      url: 'https://quartopub.com/sites/samedwardes/using-poetry-for-python-dependency-management'
